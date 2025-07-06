@@ -4,7 +4,7 @@
   <name>speechy_bot</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="my_email@email.com">MY NAME</maintainer>
+  <maintainer email="sara23.abdelhafid@email.com">Sara Meriem Abdelhafid</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
