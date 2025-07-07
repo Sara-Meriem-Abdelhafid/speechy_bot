@@ -1,0 +1,5 @@
+cd C:\pixi_ws
+pixi shell
+call C:\pixi_ws\ros2-windows\local_setup.bat
+cd C:\Users\Pc\Desktop\Work\Self_Work\Dev\speechy_bot
+colcon build --symlink-install
