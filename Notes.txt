@@ -1,3 +1,4 @@
+#run on Command Prompt as administrator
 cd C:\pixi_ws
 pixi shell
 call C:\pixi_ws\ros2-windows\local_setup.bat
